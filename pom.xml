@@ -11,6 +11,7 @@
 	<groupId>com.klef.cicd</groupId>
 	<artifactId>jenkinsb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>jenkinsb</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>

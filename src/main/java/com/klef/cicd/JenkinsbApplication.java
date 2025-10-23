@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 @SpringBootApplication
-public class JenkinsbApplication extends SpringBootServletInitializer{
+public class JenkinsbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsbApplication.class, args);
